@@ -1,4 +1,4 @@
-Automation suite for validating car valuation data against motorway.co.uk
+Automation suite for validating car reg data against motorway.co.uk
 
 ## Features
 - 🚗 Car Registration number extraction using regex
@@ -45,4 +45,3 @@ Browser Issues: Update browser versions
 
 Sometimes after hitting continuously the search sites like motorway.co.uk, they block the access to the 
 search feature and you will have to wait a while.
- No newline at end of file
